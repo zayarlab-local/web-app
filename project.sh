@@ -1,1 +1,1 @@
-echo "Let see error"
+echo "Now works"
