@@ -1,1 +1,1 @@
-echo "This is final for today"
+echo "Thank you"
