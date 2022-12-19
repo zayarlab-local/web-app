@@ -1,1 +1,1 @@
-echo "Thank you"
+echo "Let see error"
